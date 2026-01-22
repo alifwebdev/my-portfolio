@@ -4,7 +4,7 @@ import Layout from "@/Components/Layout";
 import Head from "next/head";
 import Image from "next/image";
 import { useEffect, useRef } from "react";
-import ProfilePic from "../../../public/azizul.png";
+import ProfilePic from "../../../public/my-img-1.png";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
 import Education from "@/Components/Education";
 import TransitionEffect from "@/Components/TransitionEffect";
